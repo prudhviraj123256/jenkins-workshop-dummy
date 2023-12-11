@@ -6,3 +6,4 @@ def test_maven(massage) {
 # def test = new com.exaple.test
 
 #  test.test_maven("clean install")
+
